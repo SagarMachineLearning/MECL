@@ -53,7 +53,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <style>
         /* Add custom styles for the dashboard page */
         body {
-            background-image: url('assets/bg.jpg'); /* Replace 'background_image.jpg' with your actual background image */
+            background-image: url('bg.jpg'); /* Replace 'background_image.jpg' with your actual background image */
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
